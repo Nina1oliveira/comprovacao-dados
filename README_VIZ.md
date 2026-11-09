@@ -60,38 +60,7 @@ Fornecer insights estratégicos sobre vendas através de visualizações interat
 
 ## 🛠️ Tecnologias Utilizadas
 
-- **Google Looker Studio**: Plataforma principal para criação do dashboard
-
-## 📋 Pré-requisitos
-
-Para visualizar e editar este projeto, você precisará de:
-
-- Conta Google ativa
-- Acesso ao Google Looker Studio
-- Permissões adequadas para visualização/edição do dashboard
-- Conhecimento básico em análise de dados (recomendado)
-
-## 🚀 Como Usar
-
-### Para Visualizar o Dashboard
-
-1. **Acesse o link do dashboard** (fornecido pelo proprietário)
-2. **Faça login** com sua conta Google
-3. **Explore os filtros disponíveis**:
-   - Status do Cliente (VIP/Não VIP)
-   - Categoria de Produto
-   - Estado
-   - Nome do Produto
-4. **Interaja com os gráficos** clicando para filtrar dados
-5. **Use o período de datas** para análises específicas
-
-### Para Editar/Copiar o Dashboard
-
-1. **Solicite acesso de edição** ao proprietário
-2. **Ou crie uma cópia**:
-   - Clique em "Arquivo" → "Fazer uma cópia"
-   - Conecte sua própria fonte de dados
-   - Ajuste os campos conforme necessário
+- **Google Looker Studio**
 
 ## 🔧 Estrutura dos Dados
 
