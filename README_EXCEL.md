@@ -67,63 +67,12 @@ A empresa vende em **7 estados brasileiros**:
 - Pernambuco (PE)
 - Minas Gerais (MG)
 
-## 🚀 Como Usar Este Arquivo
+## 🛠️ Ferramentas Utilizadas
 
-### Para Iniciantes em Excel:
-
-1. **Abra o arquivo** no Microsoft Excel ou Google Sheets
-2. **Comece pela planilha "Sheet1"** - ela tem todos os dados principais
-3. **Explore os dados** usando filtros:
-   - Clique em qualquer célula da tabela
-   - Vá em "Dados" > "Filtro"
-   - Use as setinhas nas colunas para filtrar por estado, categoria, etc.
-
-### Análises Sugeridas para Praticar:
-
-#### 📊 **Análises Básicas** (Nível Iniciante)
-- Qual estado teve mais vendas?
-- Qual categoria de produto vende mais?
-- Qual mês teve maior faturamento?
-- Quantos clientes VIP temos?
-
-#### 📈 **Análises Intermediárias**
-- Criar gráficos de vendas por mês
-- Calcular ticket médio por estado
-- Comparar lucro por categoria
-- Identificar produtos mais rentáveis
-
-#### 🎯 **Análises Avançadas**
-- Análise de sazonalidade
-- Segmentação de clientes
-- Previsão de vendas
-- Análise de margem de lucro
-
-## 🛠️ Ferramentas Recomendadas
-
-### **Para Iniciantes:**
-- **Microsoft Excel** - Ferramenta mais comum
-- **Google Sheets** - Gratuito e online
-- **LibreOffice Calc** - Alternativa gratuita
-
-### **Para Análises Mais Avançadas:**
-- **Power BI** - Dashboards profissionais
+### **Para Análises:**
+- **Microsoft Excel** 
+- **Google Sheets** 
+- **LibreOffice Calc**
+- **Power BI** 
 - **Python** (pandas) - Análise de dados programática
 - **R** - Estatísticas avançadas
-
-## 💡 Dicas para Iniciantes
-
-### 🎯 **Por onde começar:**
-1. **Familiarize-se com os dados** - navegue pelas colunas e entenda o que cada uma significa
-2. **Use filtros** - muito úteis para explorar os dados
-3. **Crie gráficos simples** - comece com gráficos de barras e pizza
-4. **Pratique fórmulas básicas** - SOMA, MÉDIA, CONTAR
-
-### ⚠️ **Coisas importantes:**
-- **Não modifique os dados originais** - sempre faça uma cópia antes
-- **Entenda cada coluna** antes de fazer análises
-- **Comece simples** - análises básicas primeiro, depois evolua
-- **Salve seu trabalho** frequentemente
-
----
-
-**Lembre-se**: Este é um arquivo para **aprendizado**. Use-o para praticar, experimentar e desenvolver suas habilidades em análise de dados! 🎓
